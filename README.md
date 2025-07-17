@@ -56,6 +56,15 @@ Me chamo Beatriz, tenho 21 anos e sou graduanda em Sistemas de Informação pela
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
 <br/>
 <br/>
 
