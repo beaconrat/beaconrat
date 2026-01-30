@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-Me chamo Beatriz, tenho 22 anos e sou graduanda em Sistemas de Informação pela FURB. Atualmente estou no 6º semestre e também participei do programa Entra21, com foco na linguagem Java. Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos. 
+Me chamo Beatriz, tenho 22 anos e sou graduanda em Sistemas de Informação pela FURB. Atualmente estou no 7º semestre e também participei do programa Entra21, com foco na linguagem Java. Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos. 
 
 <div>
     <a href = "mailto:bia2003conrat@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
